@@ -1,2 +1,6 @@
-# ObjectOrientedProgamming
-this is object-oriented programming with the title Spotify which is a digital music player
+Pemutar Musik berbasis java adalah program mp3 seperti winamp dll, dibangun dengan program java <br>
+
+#Cara Instalasi<br>
+1.Download Program Pemutar_Musik<br>
+2.Import Library yang ada pada folder library<br>
+3.Open Project<br>
